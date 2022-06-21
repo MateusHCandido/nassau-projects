@@ -35,7 +35,7 @@ public class Loan extends BinarySearch {
             System.out.print("SELECT AN OPTION: ");
             Integer option = input.nextInt();
             if (option == 1) {
-                //triggering peding
+                //triggering pending
                 users.get(enrollment).setPending("YES");
                 String nameBook = books.get(id).getNameBook();
                 users.get(enrollment).setNameBook(nameBook);
