@@ -24,7 +24,7 @@ public class Exercise05 {
         }
 
         System.out.println("-----------------------");
-        System.out.println("       RESUME          ");
+        System.out.println("        RESUME         ");
         for(int values: M) System.out.print(values + " ");
     }
 }
