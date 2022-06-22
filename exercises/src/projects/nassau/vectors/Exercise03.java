@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Exercise03 {
     public static void main(String[] args){
-        /**/
+        /*Read a Q vector of 20 positions (accept positive numbers only). Write the value of the
+        largest element of Q and its position in the vector.*/
 
         Scanner input = new Scanner(System.in);
         int [] Q = new int [5];
